@@ -108,3 +108,4 @@ aws s3 cp CAvideos.csv s3://youtube-data-engg-project/youtube/raw_statistics/reg
 
 
 
+![image](https://github.com/user-attachments/assets/9b8d8531-3d91-4a83-8b1c-781e7cbc500d)
